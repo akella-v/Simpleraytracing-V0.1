@@ -1,7 +1,7 @@
 # Simpleraytracing-V0.1
-/** Author: Akella Venkata Anish**/
-/**Language: CUDA*/
-Objective -- A simpler version on Parallel Ray Tracing and its implementation.
+# Author: Akella Venkata Anish
+# Language: CUDA
+# Objective -- A simpler version on Parallel Ray Tracing and its implementation.
 
 Using the understanding of Ray tracing along with concepts from other sources, this module has been coded in CUDA. This code does the following:
 a) Generating Scalable Spheres with a fixed weightage on random instants using “rand() Function” on a grayscale 2D canvas.
