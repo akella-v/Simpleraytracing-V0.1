@@ -1,5 +1,5 @@
 # Simpleraytracing-V0.1
-  Author: Akella Venkata Anish
+  Author: Akella Venkata Anish, 
   Language: CUDA
 # Objective -- A simpler version on Parallel Ray Tracing and its implementation.
 
